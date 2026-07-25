@@ -1,80 +1,114 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Привет,%20я%20Влад!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&%20Backend%20Developer%20&%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
-</div>
+# 👋 Hi, I'm Backend & Security Engineer
 
 <div align="center">
-  <a href="https://yuzii.lol">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=System+Architect+for+RAGE:MP;JavaScript+Backend+Engineer;Cybersecurity+Researcher;Learning+C%23+and+.NET;Building+Unbreakable+Servers" alt="Typing SVG" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer+%7C+1+YoE;High-Load+%26+System+Architecture;Cybersecurity+%26+AppSec;Fast+%26+Bulletproof+Code" alt="Typing SVG" />
+
+<p align="center">
+  <b>Разрабатываю асинхронные отказоустойчивые системы • Нахожу уязвимости до production</b>
+</p>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
+
+---
+
+### 🚀 Обо мне
+
+Я **Backend-разработчик** с 1 годом боевого коммерческого опыта. Я не просто пишу код — я создаю сложные, высоконагруженные серверные системы, продумываю архитектуру и оптимизирую базы данных, чтобы проекты работали без лагов и падений.
+
+Вторая сторона моей работы — **Кибербезопасность (AppSec & Offensive Security)**. Я изучил актуальные векторы атак, ломаю собственные тестовые стенды и внедряю максимальную защиту от уязвимостей на уровне архитектуры. Мой подход простой: **код должен быть не только быстрым, но и непробиваемым.**
+
+---
+
+### 🛠 Технологический стек
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚙️ Backend & Architecture</h4>
+      <ul>
+        <li><b>Языки:</b> Python, Go</li>
+        <li><b>Фреймворки:</b> FastAPI, Django, Gin</li>
+        <li><b>Протоколы & API:</b> REST API, gRPC, WebSocket</li>
+        <li><b>Асинхронность:</b> Asyncio, Celery, RabbitMQ / Kafka</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>💾 Databases & Caching</h4>
+      <ul>
+        <li><b>RDBMS:</b> PostgreSQL (Индексы, Оптимизация запросов, PL/pgSQL)</li>
+        <li><b>NoSQL / Cache:</b> Redis, MongoDB</li>
+        <li><b>ORM / Query Builders:</b> SQLAlchemy, Tortoise-ORM, GORM</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🛡️ Cybersecurity & AppSec</h4>
+      <ul>
+        <li><b>Анализ уязвимостей:</b> OWASP Top 10, SAST / DAST</li>
+        <li><b>Инструменты:</b> Burp Suite, Nmap, Wireshark, Metasploit</li>
+        <li><b>Защита:</b> OAuth2 / JWT, Rate Limiting, Input Validation, Hardening</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🐳 Infrastructure & DevOps</h4>
+      <ul>
+        <li><b>Контейнеризация:</b> Docker, Docker Compose</li>
+        <li><b>Web-серверы:</b> Nginx, Traefik</li>
+        <li><b>CI/CD & ОС:</b> GitHub Actions, Linux (Ubuntu/Debian/Kali)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Основные фокусы и экспертиза
+
+```gcode
+┌────────────────────────────────────────────────────────────────────────┐
+│ ⚡ HIGH-LOAD & SYSTEM DESIGN                                           │
+│ ├─ Оптимизация сложных SQL-запросов и структуры БД                     │
+│ ├─ Кэширование с помощью Redis для минимизации latency                 │
+│ └─ Микросервисы и асинхронная обработка фоновых задач                  │
+├────────────────────────────────────────────────────────────────────────┤
+│ 🔒 OFFENSIVE & DEFENSIVE SECURITY                                      │
+│ ├─ Моделирование угроз и аудит безопасности кода (Code Review)         │
+│ ├─ Тестирование приложений на уязвимости (SQLi, XSS, SSRF, IDOR/BOLA)  │
+│ └─ Создание изолированных стендов для имитации атак                    │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 📊 Статистика GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+
 </div>
 
-<br/>
+---
 
-### 💻 `whoami`
+### ⚡ Быстрые факты
 
-> Я backend-разработчик с **1 годом боевого опыта**. Моя главная страсть — это **RAGE:MP**. Я не просто пишу код, я создаю сложные, высоконагруженные серверные системы, продумываю архитектуру и базы данных, чтобы игровые проекты работали без лагов и падений. 
-> 
-> Вторая сторона моей работы — **кибербезопасность**. Я изучаю векторы атак, ломаю собственные тестовые стенды и внедряю максимальную защиту от уязвимостей. Мой код должен быть не только быстрым, но и непробиваемым.
+- 💡 **Спроси меня про:** Оптимизацию PostgreSQL, архитектуру REST/gRPC API, защиту от OWASP Top 10
+- 🎯 **Текущий фокус:** Разработка защищенных высоконагруженных сервисов & углубление в Go / Rust
+- 💬 **Принцип в работе:** *"Быстрый код привлекает пользователей, непробиваемый — бережет бизнес."*
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
-</div>
-
-<br/>
-
-### 🎮 Статистика и опыт
-**Skill Points:**
-*   ⚙️ **Backend & Logic** ▰▰▰▰▰▰▰▰▱▱ *(Создание систем, API, архитектура)*
-*   🕹️ **RAGE:MP Dev** ▰▰▰▰▰▰▰▰▰▱ *(Синхронизация, ивенты, серверная логика)*
-*   🗄️ **Databases** ▰▰▰▰▰▰▰▱▱▱ *(PostgreSQL, оптимизация запросов)*
-*   🔒 **Cybersecurity** ▰▰▰▰▰▰▱▱▱▱ *(Защита от инъекций, аудит безопасности)*
-*   🚀 **C# & .NET** ▰▰▰▰▱▱▱▱▱▱ *(В активном процессе изучения)*
-
-<br/>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
-</div>
-
-<br/>
-
-### 🛠️ Инвентарь (Технологии)
-
-<div align="center">
-  <p><i>Языки и фреймворки</i></p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet&perline=5" alt="Tech" />
-  
-  <br/><br/>
-  
-  <p><i>Базы данных, Инструменты и ОС</i></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,ubuntu,bash,git,vscode&perline=7" alt="Tools" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="80%" />
-</div>
-
-<br/>
-
-### 📫 Точки входа (Связь со мной)
-
-<div align="center">
-  <a href="https://t.me/yuziich"><img src="https://img.shields.io/badge/Telegram-@yuziich-00C9FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:tolkattkas@gmail.com"><img src="https://img.shields.io/badge/Email-tolkattkas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yuzii.lol"><img src="https://img.shields.io/badge/Website-yuzii.lol-000000?style=for-the-badge&logo=google-chrome&logoColor=00C9FF" alt="Website"/></a>
-  <img src="https://img.shields.io/badge/Discord-yuzii.com-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer" alt="Footer"/>
+  <sub>Designed with 🛡️ for clean code and high availability</sub>
 </div>
